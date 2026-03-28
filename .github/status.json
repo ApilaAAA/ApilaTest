@@ -1,6 +1,6 @@
 {
-    "unsafe": true,
-    "notice": "Päivitetty 28.3.2026 jees kona kk 👍",
+    "unsafe": false,
+    "notice": "Päivitetty 28.3.2026 jees kona kk voi tulla vaclive älä käytä 👍",
     "version": {
         "current": 103,
         "minimum": 103
